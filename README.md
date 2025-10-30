@@ -3,7 +3,7 @@
 *I am a frontend web developer learning new technologies everyday.*
 
 * 🌍  I'm based in Port-harcourt, Nigeria.
-* ✉️  You can contact me at [dannygodwin2003@gmail.com](mailto:dannygodwin2003@gmail.com)
+* ✉️  You can contact me at [braidedaniella@gmail.com](mailto:braidedaniella@gmail.com)
 * 🧠  I'm learning react.js
 * ⚡  I am a passionate learner willing to expand knowledge.
 
