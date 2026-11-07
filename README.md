@@ -4,7 +4,7 @@
 
 * 🌍  I'm based in Port-harcourt, Nigeria.
 * ✉️  You can contact me at [braidedaniella@gmail.com](mailto:braidedaniella@gmail.com)
-* 🧠  I'm learning react.js
+* 🧠  I'm learning nest.js
 * ⚡  I am a passionate learner willing to expand knowledge.
 
 ## 💻 Tech Stack:
